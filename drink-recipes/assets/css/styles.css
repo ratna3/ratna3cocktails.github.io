@@ -1,0 +1,57 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #ffecd2, #fcb69f);
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+#age-verification, #calculus-problem, #drink-recipes {
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    max-width: 500px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#drinks-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.drink-item {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #e0f7fa;
+    transition: background-color 0.3s;
+}
+
+.drink-item:hover {
+    background-color: #b2ebf2;
+}
+
+@media (max-width: 600px) {
+    #drinks-list {
+        flex-direction: column;
+    }
+}

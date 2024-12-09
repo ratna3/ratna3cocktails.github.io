@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drink Recipes</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <div id="age-verification">
+        <h1>Welcome to Drink Recipes</h1>
+        <p>Please enter your age:</p>
+        <input type="number" id="age-input" min="0" max="120">
+        <button onclick="checkAge()">Submit</button>
+    </div>
+    <div id="calculus-problem" style="display:none;">
+        <h2>Solve this calculus problem:</h2>
+        <p id="problem"></p>
+        <input type="text" id="answer-input">
+        <button onclick="checkAnswer()">Submit</button>
+        <p id="attempts"></p>
+    </div>
+    <div id="drink-recipes" style="display:none;">
+        <h1>Drink Recipes</h1>
+        <div id="drinks-list"></div>
+        <div id="recipe-details"></div>
+    </div>
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
