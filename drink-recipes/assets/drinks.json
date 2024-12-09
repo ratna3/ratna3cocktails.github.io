@@ -1,0 +1,104 @@
+{
+    "drinks": [
+        {
+            "name": "Mojito",
+            "ingredients": "Mint leaves, Lime, Sugar, Rum, Soda water",
+            "procedure": "Muddle mint leaves with lime and sugar. Add rum and top with soda water."
+        },
+        {
+            "name": "Margarita",
+            "ingredients": "Tequila, Lime juice, Triple sec, Salt",
+            "procedure": "Shake tequila, lime juice, and triple sec with ice. Serve in a salt-rimmed glass."
+        },
+        {
+            "name": "Old Fashioned",
+            "ingredients": "Bourbon or Rye whiskey, Sugar, Bitters, Orange twist",
+            "procedure": "Muddle sugar and bitters. Add whiskey and ice. Stir and garnish with an orange twist."
+        },
+        {
+            "name": "Cosmopolitan",
+            "ingredients": "Vodka, Triple sec, Cranberry juice, Lime juice",
+            "procedure": "Shake all ingredients with ice and strain into a chilled cocktail glass."
+        },
+        {
+            "name": "Pina Colada",
+            "ingredients": "Rum, Coconut cream, Pineapple juice",
+            "procedure": "Blend all ingredients with ice until smooth. Serve in a chilled glass."
+        },
+        {
+            "name": "Martini",
+            "ingredients": "Gin or Vodka, Dry vermouth, Lemon twist or Olive",
+            "procedure": "Stir gin and vermouth with ice. Strain into a chilled glass and garnish."
+        },
+        {
+            "name": "Daiquiri",
+            "ingredients": "Rum, Lime juice, Simple syrup",
+            "procedure": "Shake all ingredients with ice and strain into a chilled glass."
+        },
+        {
+            "name": "Whiskey Sour",
+            "ingredients": "Whiskey, Lemon juice, Simple syrup, Egg white (optional)",
+            "procedure": "Shake all ingredients with ice and strain into a glass. Garnish with a cherry."
+        },
+        {
+            "name": "Negroni",
+            "ingredients": "Gin, Campari, Sweet vermouth",
+            "procedure": "Stir all ingredients with ice and strain into a glass. Garnish with an orange peel."
+        },
+        {
+            "name": "Mai Tai",
+            "ingredients": "Rum, Lime juice, Orgeat syrup, Orange liqueur",
+            "procedure": "Shake all ingredients with ice and strain into a glass. Garnish with mint."
+        },
+        {
+            "name": "Bloody Mary",
+            "ingredients": "Vodka, Tomato juice, Lemon juice, Worcestershire sauce, Hot sauce, Salt, Pepper",
+            "procedure": "Stir all ingredients with ice and strain into a glass. Garnish with celery."
+        },
+        {
+            "name": "Manhattan",
+            "ingredients": "Rye whiskey, Sweet vermouth, Bitters",
+            "procedure": "Stir all ingredients with ice and strain into a glass. Garnish with a cherry."
+        },
+        {
+            "name": "Moscow Mule",
+            "ingredients": "Vodka, Lime juice, Ginger beer",
+            "procedure": "Combine all ingredients in a copper mug with ice. Garnish with a lime wedge."
+        },
+        {
+            "name": "Gin and Tonic",
+            "ingredients": "Gin, Tonic water, Lime wedge",
+            "procedure": "Pour gin over ice in a glass. Top with tonic water and garnish with a lime wedge."
+        },
+        {
+            "name": "Tequila Sunrise",
+            "ingredients": "Tequila, Orange juice, Grenadine",
+            "procedure": "Pour tequila and orange juice into a glass with ice. Add grenadine and let it settle."
+        },
+        {
+            "name": "Long Island Iced Tea",
+            "ingredients": "Vodka, Tequila, Rum, Gin, Triple sec, Lemon juice, Simple syrup, Cola",
+            "procedure": "Combine all ingredients except cola in a glass with ice. Top with cola and stir."
+        },
+        {
+            "name": "Aperol Spritz",
+            "ingredients": "Aperol, Prosecco, Soda water",
+            "procedure": "Combine all ingredients in a glass with ice. Garnish with an orange slice."
+        },
+        {
+            "name": "French 75",
+            "ingredients": "Gin, Lemon juice, Simple syrup, Champagne",
+            "procedure": "Shake gin, lemon juice, and simple syrup with ice. Strain into a glass and top with champagne."
+        },
+        {
+            "name": "Mint Julep",
+            "ingredients": "Bourbon, Mint leaves, Sugar, Water",
+            "procedure": "Muddle mint leaves with sugar and water. Add bourbon and ice. Stir and garnish with mint."
+        },
+        {
+            "name": "Tom Collins",
+            "ingredients": "Gin, Lemon juice, Simple syrup, Soda water",
+            "procedure": "Shake gin, lemon juice, and simple syrup with ice. Strain into a glass and top with soda water."
+        }
+    ]
+}
